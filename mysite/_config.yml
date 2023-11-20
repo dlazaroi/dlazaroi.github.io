@@ -1,0 +1,62 @@
+# theme: jekyll-theme-minimal
+# theme: beautiful-jekyll-theme
+# theme: jekyll-theme-prologue
+theme: minimal-mistakes-jekyll
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+title: Daniel Lázaro
+description: Los libros de Daniel Lázaro
+url: "https://dlazaroi.github.io"
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+# navbar-links:
+#   Libros: "libros"
+#   Contacto: "contacto"
+    
+locale: es-ES
+
+author:
+  name: "Daniel Lázaro Iglesias"
+  avatar: "/assets/images/avatar-icon.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dlazaroi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dlazaro.libros"
+
+################
+# --- Logo --- #
+################
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar-icon.jpg"
+logo: "/assets/img/avatar-icon.jpg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+collections:
+  books:
+    sort_by: order
+    output: true
+  sections:
+
+minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/dlazaroi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dlazaro.libros"
+atom_feed:
+  hide: true

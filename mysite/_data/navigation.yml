@@ -1,0 +1,5 @@
+main:
+  - title: "Libros"
+    url: /libros/
+  - title: "Contacto"
+    url: /contacto/

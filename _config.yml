@@ -1,12 +1,10 @@
-# theme: jekyll-theme-minimal
-# theme: beautiful-jekyll-theme
-# theme: jekyll-theme-prologue
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title: Daniel Lázaro
 description: Los libros de Daniel Lázaro
 url: "https://dlazaroi.github.io"
+domain: "dlazaroi.github.io"
 
 ###############################################
 # --- List of links in the navigation bar --- #

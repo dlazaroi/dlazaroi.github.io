@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "El observador y otros relatos, ya a la venta en Amazon y Lektu"
+title:  "_El observador y otros relatos_ ya a la venta en Amazon y Lektu"
 date:   2023-11-20 16:53:14 +0100
 categories: libros novedades
 classes: wide

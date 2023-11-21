@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "La Distorsión, disponible en Amazon en ebook y en tapa blanda"
+title:  "_La Distorsión_ disponible en Amazon en ebook y en tapa blanda"
 date:   2023-11-16 16:53:14 +0100
 categories: libros novedades
 classes: wide

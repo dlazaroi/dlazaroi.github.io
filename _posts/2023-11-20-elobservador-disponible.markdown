@@ -7,7 +7,7 @@ classes: wide
 share: true
 header:
   teaser: "/assets/img/elobservador-cover.png"
-  overlay_image: /assets/img/elobservador-cover.png
+  overlay_image: /assets/img/elobservador-header.png
   show_overlay_excerpt: false
   actions: 
     - label: Ver libro

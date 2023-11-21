@@ -6,7 +6,7 @@ order: 2
 permalink: /elobservador/
 header:
   teaser: "/assets/img/elobservador-cover.png"
-  overlay_image: /assets/img/elobservador-cover.png
+  overlay_image: /assets/img/elobservador-header.png
   show_overlay_excerpt: false
 excerpt: ""
 sidebar:

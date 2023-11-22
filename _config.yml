@@ -18,7 +18,7 @@ locale: es-ES
 
 author:
   name: "Daniel Lázaro Iglesias"
-  avatar: "/assets/images/avatar-icon.jpg"
+  avatar: "/assets/images/avatar-icon.avif"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -38,7 +38,7 @@ footer:
 atom_feed:
   hide: true
 
-logo: "/assets/img/avatar-icon.jpg"
+logo: "/assets/img/avatar-icon.avif"
 
 collections:
   books:

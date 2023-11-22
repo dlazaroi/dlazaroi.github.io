@@ -5,12 +5,12 @@ title: La Distorsión
 order: 1
 permalink: /ladistorsion/
 header:
-  teaser: "/assets/img/ladistorsion-cover.png"
-  overlay_image: /assets/img/ladistorsion-header.png
+  teaser: "/assets/img/ladistorsion-cover.avif"
+  overlay_image: /assets/img/ladistorsion-header.avif
   show_overlay_excerpt: false
 excerpt: ""
 sidebar:
-    - image: "/assets/img/ladistorsion-cover.png"
+    - image: "/assets/img/ladistorsion-cover.avif"
       text: "Disponible en:"
     - text: "[Amazon]( https://www.amazon.es/Distorsi%25C3%25B3n-Daniel-L%25C3%25A1zaro-Iglesias-ebook/dp/B08F5L879M/?&_encoding=UTF8&tag=dlazaroi-21&linkCode=ur2&linkId=bad8de86c5825bb742a86bbf4bd30587&camp=3638&creative=24630 ){:target='_blank' .btn .btn--success}"
 ---

@@ -6,8 +6,8 @@ categories: libros novedades
 classes: wide
 share: true
 header:
-  teaser: "/assets/img/ladistorsion-cover.png"
-  overlay_image: /assets/img/ladistorsion-header2.png
+  teaser: "/assets/img/ladistorsion-cover.avif"
+  overlay_image: /assets/img/ladistorsion-header2.avif
   show_overlay_excerpt: false
   actions: 
     - label: Ver libro

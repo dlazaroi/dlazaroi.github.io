@@ -5,13 +5,13 @@ title: El observador y otros relatos
 order: 2
 permalink: /elobservador/
 header:
-  teaser: "/assets/img/elobservador-cover.png"
-  overlay_image: /assets/img/elobservador-header.png
+  teaser: "/assets/img/elobservador-cover.avif"
+  overlay_image: /assets/img/elobservador-header.avif
   show_overlay_excerpt: false
 excerpt: ""
 sidebar:
     - title: El observador y otros relatos
-      image: "/assets/img/elobservador-cover.png"
+      image: "/assets/img/elobservador-cover.avif"
       text: "Disponible en:"
     - text: "[Amazon]( https://www.amazon.es/El-observador-y-otros-relatos-ebook/dp/B0CN9J7Z2V?ref_=ast_author_dp&_encoding=UTF8&tag=dlazaroi-21&linkCode=ur2&linkId=1295569ce27dc4f250cce68ccd4486e4&camp=3638&creative=24630 ){:target='_blank' .btn .btn--success}"
     - text: "[Lektu](https://lektu.com/l/daniel-lazaro-iglesias/el-observador/22415){:target='_blank' .btn .btn--success}"

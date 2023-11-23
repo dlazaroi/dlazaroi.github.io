@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "_El observador y otros relatos_ ya a la venta en Amazon y Lektu"
+title:  "_\"El observador y otros relatos\"_ ya a la venta en Amazon y Lektu"
 date:   2023-11-20 16:53:14 +0100
 categories: libros novedades
 classes: wide
@@ -15,7 +15,7 @@ header:
 ---
 
 
-La colección de relatos cortos [El observador y otros relatos](/elobservador/) está a la venta tanto en Amazon como en Lektu desde la semana pasada.
+La colección de relatos cortos [_"El observador y otros relatos"_](/elobservador/) está a la venta tanto en Amazon como en Lektu desde la semana pasada.
 
 En Amazon puedes adquirir tanto la versión en ebook como la versión en tapa blanda, mientras que en Lektu está disponible la versión digital en varios formatos (pdf, mobi, epub) mediante el modelo "paga si te gusta", en el que puedes descargar gratuitamente el libro y decidir si quieres pagar posteriormente.
 

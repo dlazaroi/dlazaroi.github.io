@@ -15,6 +15,8 @@ sidebar:
       text: "Disponible en:"
     - text: "[Amazon]( https://www.amazon.es/El-observador-y-otros-relatos-ebook/dp/B0CN9J7Z2V?ref_=ast_author_dp&_encoding=UTF8&tag=dlazaroi-21&linkCode=ur2&linkId=1295569ce27dc4f250cce68ccd4486e4&camp=3638&creative=24630 ){:target='_blank' .btn .btn--success}"
     - text: "[Lektu](https://lektu.com/l/daniel-lazaro-iglesias/el-observador/22415){:target='_blank' .btn .btn--success}"
+    - text: "[Google Play](https://play.google.com/store/books/details?id=3wnjEAAAQBAJ){:target='_blank' .btn .btn--success}"
+    
 
 ---
 

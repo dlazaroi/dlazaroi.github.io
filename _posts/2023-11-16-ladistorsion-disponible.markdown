@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "_La Distorsión_ disponible en Amazon en ebook y en tapa blanda"
+title:  "_\"La Distorsión\"_ disponible en Amazon en ebook y en tapa blanda"
 date:   2023-11-16 16:53:14 +0100
 categories: libros novedades
 classes: wide
@@ -14,7 +14,7 @@ header:
       url: /ladistorsion/
 ---
 
-[La Distorsión](/ladistorsion/) está disponible en Amazon tanto en versión de ebook como en tapa blanda. Además, la versión digital se puede leer de forma gratuita si eres miembro de Kindle Unlimited.
+[_"La Distorsión"_](/ladistorsion/) está disponible en Amazon tanto en versión de ebook como en tapa blanda. Además, la versión digital se puede leer de forma gratuita si eres miembro de Kindle Unlimited.
 
 Puedes leer las primeras páginas a continuación:
 

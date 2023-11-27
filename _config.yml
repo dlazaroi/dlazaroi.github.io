@@ -48,5 +48,8 @@ collections:
 
 minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-
+analytics:
+  provider: google-gtag
+  google:
+    tracking_id: G-GKMQ1F2DYM
 

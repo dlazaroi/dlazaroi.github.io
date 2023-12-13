@@ -40,6 +40,10 @@ atom_feed:
 
 logo: "/assets/img/avatar-icon.avif"
 
+head_scripts:
+  - /assets/scripts/newsletter.js
+
+
 collections:
   books:
     sort_by: order

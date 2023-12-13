@@ -12,4 +12,7 @@ header:
   show_overlay_excerpt: true
 ---
 
-¡Hola!
+
+¡Apúntate a la <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'Va1yYb', true)">newsletter</a> para conseguir un e-book con dos relatos exclusivos!
+
+

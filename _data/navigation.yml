@@ -1,5 +1,7 @@
 main:
   - title: "Libros"
     url: /libros/
+  - title: "Antologías"
+    url: /antologias/
   - title: "Contacto"
     url: /contacto/

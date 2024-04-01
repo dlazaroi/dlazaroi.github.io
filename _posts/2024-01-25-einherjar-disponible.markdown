@@ -18,7 +18,7 @@ header:
 
 A continuación puedes leer la sinopsis y ver unas páginas de muestra de la versión digital. ¡Espero que lo disfrutes!
 
-----
+-----
 
 Ulf murió en el campo de batalla: el mayor honor para un guerrero, o eso dicen. Lo último que vieron sus ojos fue una valquiria. Pensó que era el rostro más bello que había visto nunca.
 {: .text-justify}

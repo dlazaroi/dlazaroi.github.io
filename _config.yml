@@ -48,6 +48,9 @@ collections:
   books:
     sort_by: order
     output: true
+  stories:
+    sort_by: order
+    output: true
   sections:
 
 minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
